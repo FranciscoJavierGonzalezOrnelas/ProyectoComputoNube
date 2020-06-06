@@ -1,0 +1,117 @@
+.container-form {
+    background-color: cyan;
+    width: 100%;
+    padding: 10px;
+}
+
+.formulario {
+    background-color: white;
+    border-radius: 10px;
+    color: #999;
+    font-size: 18px;
+    padding: 10px;
+    margin: 0 auto;
+    width: 400px;
+}
+
+input,
+textarea {
+    outline: none;
+    border: solid 1px #CCC;
+    padding: 5px;
+}
+
+.txt {
+    width: 350px;
+}
+
+.no {
+    width: 100px;
+}
+
+.btn-guardar {
+    border-radius: 3px;
+    text-decoration: none;
+    text-shadow: 0 1px 0 rgba(255, 255, 255, 0.3);
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.3);
+    background-color: blue;
+    color: white;
+    border: none;
+}
+
+.btn-cancelar {
+    border-radius: 3px;
+    text-decoration: none;
+    text-shadow: 0 1px 0 rgba(255, 255, 255, 0.3);
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.3);
+    background-color: red;
+    color: white;
+    border: none;
+}
+
+.container-tabla {
+    margin: 0 auto;
+    text-align: center;
+    padding-left: 100px;
+}
+
+.tabla {
+    text-align: center;
+}
+
+.titulo {
+    font-size: 20px;
+    border: solid black 1px;
+    text-align: center;
+    font-weight: bold;
+    margin: 20px;
+    width: 200px;
+}
+
+.id {
+    font-weight: bold;
+    border: solid black 1px;
+    margin: 2px;
+    text-align: center;
+}
+
+.tipo {
+    border: solid black 1px;
+    width: 200px;
+    text-align: center;
+}
+
+.nombre {
+    border: solid black 1px;
+    width: 200px;
+    text-align: center;
+}
+
+.precio {
+    border: solid black 1px;
+    width: 200px;
+    text-align: center;
+}
+
+.stock {
+    border: solid black 1px;
+    width: 200px;
+    text-align: center;
+}
+
+.descripcion {
+    border: solid black 1px;
+    width: 200px;
+    text-align: center;
+}
+
+.row-imagen {
+    border: solid black 1px;
+    width: 200px;
+    text-align: center;
+}
+
+.imagen {
+    width: 100px;
+    height: 100px;
+}
